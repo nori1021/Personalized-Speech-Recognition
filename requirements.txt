@@ -1,0 +1,9 @@
+openai-whisper>=20240101
+numpy>=1.20.0
+scipy>=1.7.0
+torch>=2.0.0
+tkinter
+pillow>=10.0.0
+sounddevice>=0.4.5
+pywin32>=305; platform_system == "Windows"
+winshell>=0.6; platform_system == "Windows"
