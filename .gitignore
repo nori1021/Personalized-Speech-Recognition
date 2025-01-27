@@ -38,6 +38,12 @@ transcriptions/
 *.mp3
 *.spec
 build_temp/
+dataset/
+models/
+finetuned_models/
+transcripts/
+annotations/
+app_data/
 
 # Large model files
 *.pbmm
